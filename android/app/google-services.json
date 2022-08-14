@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "679503965357",
+    "project_id": "ourlibrary-cfb41",
+    "storage_bucket": "ourlibrary-cfb41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679503965357:android:c68420c6e0b912f4f36a24",
+        "android_client_info": {
+          "package_name": "surer.levent.our_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679503965357-udnjhrsnp0sdgvrqpg0bbg6ldsmgfftn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "surer.levent.our_library",
+            "certificate_hash": "58122bbc94f5454196054a6c5626d10babe306f2"
+          }
+        },
+        {
+          "client_id": "679503965357-lt2s4d567abpml3o4rndvvpcnfvvlk0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsVG66rnNiU_PLywi_jzcSAuGxdcSMwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679503965357-lt2s4d567abpml3o4rndvvpcnfvvlk0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
